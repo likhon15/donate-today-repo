@@ -22,6 +22,117 @@ body {
     padding: 0;
 }
 
+.text-2 {
+    text-align: center;
+}
+
+.text-2 h1 {
+    font-size: 70px;
+}
+
+
+.child1 {
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+    background-color: rgb(253, 241, 243);
+    margin-bottom: 100px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.child1 h1 {
+    text-align: center;
+    color: gray;
+    font-weight: 700;
+    padding-top: 40px;
+    font-size: 45px;
+}
+
+.child2 {
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+    background-color: rgb(253, 241, 243);
+    margin-bottom: 100px;
+    border-radius: 20px;
+    padding: 20px;
+    border: 2px solid tomato;
+}
+
+.child2 h1 {
+    text-align: center;
+    color: tomato;
+    font-weight: 700;
+    padding-top: 40px;
+    font-size: 45px;
+}
+
+.child3 {
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+    background-color: rgb(253, 241, 243);
+    margin-bottom: 100px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.child3 h1 {
+    text-align: center;
+    color: gray;
+    font-weight: 700;
+    padding-top: 40px;
+    font-size: 45px;
+}
+
+.child4 {
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+    background-color: rgb(253, 241, 243);
+    margin-bottom: 100px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.child4 h1 {
+    text-align: center;
+    color: gray;
+    font-weight: 700;
+    padding-top: 40px;
+    font-size: 45px;
+}
+
+.child5 {
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+    background-color: rgb(253, 241, 243);
+    margin-bottom: 100px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.child5 h1 {
+    text-align: center;
+    color: gray;
+    font-weight: 700;
+    padding-top: 40px;
+    font-size: 45px;
+}
+
+
+.sec-parent {
+    display: flex;
+    justify-content: center;
+}
+
+
+.text-2 p {
+    font-size: 20px;
+}
+
 .sec-1 {
     background-image: url(images/donate-png.jpg);
     background-repeat: no-repeat;
