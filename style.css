@@ -27,7 +27,7 @@ body {
 }
 
 .text-2 h1 {
-    font-size: 70px;
+    font-size: 80px;
 }
 
 
@@ -38,6 +38,40 @@ body {
     background-color: rgb(253, 241, 243);
     margin-bottom: 100px;
     border-radius: 20px;
+    padding: 20px;
+}
+
+.dis-play {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.dis-play p {
+    color: gray;
+}
+
+.di1 {
+    background-color: rgb(235, 235, 235);
+    width: 30%;
+    margin: 30px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.di2 {
+    background-color: rgb(255, 231, 227);
+    width: 30%;
+    border-radius: 5px;
+    margin: 30px;
+    padding: 20px;
+}
+
+.di3 {
+    background-color: rgb(255, 255, 230);
+    width: 30%;
+    border-radius: 5px;
+    margin: 30px;
     padding: 20px;
 }
 
@@ -153,6 +187,16 @@ body {
     font-weight: 100;
     text-align: center;
     padding: 20px 70px;
+}
+
+.text-3 h1 {
+    text-align: center;
+    font-size: 80px;
+}
+
+.text-3 p {
+    text-align: center;
+    color: gray;
 }
 
 
