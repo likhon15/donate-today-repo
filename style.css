@@ -1,20 +1,18 @@
-body {
-    font-family: 'Prompt', sans-serif;
-}
-
-
 .banner h1 {
     font-size: 70px;
     color: white;
+    font-family: 'Prompt', sans-serif;
 }
 
 .banner {
     text-align: center;
+    font-family: 'Prompt', sans-serif;
 }
 
 .banner p {
     text-align: center;
     color: white;
+    font-family: 'Prompt', sans-serif;
 }
 
 * {
@@ -24,10 +22,12 @@ body {
 
 .text-2 {
     text-align: center;
+    font-family: 'Prompt', sans-serif;
 }
 
 .text-2 h1 {
     font-size: 80px;
+    font-family: 'Prompt', sans-serif;
 }
 
 
@@ -39,16 +39,19 @@ body {
     margin-bottom: 100px;
     border-radius: 20px;
     padding: 20px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .dis-play {
     display: flex;
     width: 70%;
     margin: 0 auto;
+    font-family: 'Prompt', sans-serif;
 }
 
 .dis-play p {
     color: gray;
+    font-family: 'Prompt', sans-serif;
 }
 
 .di1 {
@@ -57,6 +60,7 @@ body {
     margin: 30px;
     border-radius: 5px;
     padding: 20px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .di2 {
@@ -65,6 +69,7 @@ body {
     border-radius: 5px;
     margin: 30px;
     padding: 20px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .di3 {
@@ -73,10 +78,12 @@ body {
     border-radius: 5px;
     margin: 30px;
     padding: 20px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .donate-opn {
     text-align: center;
+    font-family: 'Prompt', sans-serif;
 }
 
 .child1 h1 {
@@ -85,6 +92,7 @@ body {
     font-weight: 700;
     padding-top: 40px;
     font-size: 45px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .child2 {
@@ -96,6 +104,7 @@ body {
     border-radius: 20px;
     padding: 20px;
     border: 2px solid tomato;
+    font-family: 'Prompt', sans-serif;
 }
 
 .child2 h1 {
@@ -104,6 +113,7 @@ body {
     font-weight: 700;
     padding-top: 40px;
     font-size: 45px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .child3 {
@@ -114,6 +124,7 @@ body {
     margin-bottom: 100px;
     border-radius: 20px;
     padding: 20px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .child3 h1 {
@@ -122,6 +133,7 @@ body {
     font-weight: 700;
     padding-top: 40px;
     font-size: 45px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .child4 {
@@ -132,6 +144,7 @@ body {
     margin-bottom: 100px;
     border-radius: 20px;
     padding: 20px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .child4 h1 {
@@ -140,6 +153,7 @@ body {
     font-weight: 700;
     padding-top: 40px;
     font-size: 45px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .child5 {
@@ -150,6 +164,7 @@ body {
     margin-bottom: 100px;
     border-radius: 20px;
     padding: 20px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .child5 h1 {
@@ -158,17 +173,20 @@ body {
     font-weight: 700;
     padding-top: 40px;
     font-size: 45px;
+    font-family: 'Prompt', sans-serif;
 }
 
 
 .sec-parent {
     display: flex;
     justify-content: center;
+    font-family: 'Prompt', sans-serif;
 }
 
 
 .text-2 p {
     font-size: 20px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .sec-1 {
@@ -176,10 +194,12 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
     height: 600px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .inside {
     padding-top: 100px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .donate-opn input {
@@ -190,48 +210,58 @@ body {
     border-style: none;
     opacity: 20%;
     border-bottom: 2px solid black;
+    font-family: 'Prompt', sans-serif;
 }
 
 .text-3 h1 {
     text-align: center;
     font-size: 80px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .text-3 p {
     text-align: center;
     color: gray;
+    font-family: 'Prompt', sans-serif;
 }
 
 .pi1 h1 {
     font-size: 80px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .pi1 {
     width: 50%;
     margin: 50px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .pi2 {
     width: 50%;
     margin: 50px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .flex-pi {
     display: flex;
     margin: 50px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .flex-pi pi1 {
     width: 50%;
+    font-family: 'Prompt', sans-serif;
 }
 
 
 .text-10 {
     text-align: center;
+    font-family: 'Prompt', sans-serif;
 }
 
 .text-10 h1 {
     font-size: 80px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .btn-in {
@@ -241,6 +271,7 @@ body {
     height: 300px;
     width: 70%;
     margin: 0 auto;
+    font-family: 'Prompt', sans-serif;
 }
 
 .btn-in input {
@@ -250,6 +281,7 @@ body {
     font-size: 30px;
     border-bottom-left-radius: 10px;
     border-top-left-radius: 10px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .btn-in button {
@@ -261,21 +293,28 @@ body {
     background-color: rgb(255, 166, 150);
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .btn-in button:hover {
     cursor: pointer;
+    font-family: 'Prompt', sans-serif;
 }
 
 
 .flex-pi img {
     width: 100%;
     border-radius: 10px;
+    font-family: 'Prompt', sans-serif;
 }
 
 .footer-class h3 {
-    font-family: 'Play', sans-serif;
-    font-family: 'Prompt', sans-serif;
+    font-family: 'Lobster', cursive;
+}
+
+.footer-class p {
+    padding-top: 20px;
+    font-size: 16px;
 }
 
 .footer-class {
@@ -286,6 +325,7 @@ body {
     text-align: center;
     padding-top: 100px;
     font-size: 40px;
+    font-family: 'Prompt', sans-serif;
 }
 
 
@@ -297,4 +337,5 @@ body {
     padding: 10px 30px;
     font-weight: 700;
     border-radius: 10px;
+    font-family: 'Prompt', sans-serif;
 }
