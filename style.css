@@ -41,6 +41,10 @@ body {
     padding: 20px;
 }
 
+.donate-opn {
+    text-align: center;
+}
+
 .child1 h1 {
     text-align: center;
     color: gray;
@@ -143,6 +147,14 @@ body {
 .inside {
     padding-top: 100px;
 }
+
+.donate-opn input {
+    font-size: 30px;
+    font-weight: 100;
+    text-align: center;
+    padding: 20px 70px;
+}
+
 
 .donate-btn {
     text-decoration: none;
