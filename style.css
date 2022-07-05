@@ -199,6 +199,36 @@ body {
     color: gray;
 }
 
+.pi1 h1 {
+    font-size: 80px;
+}
+
+.pi1 {
+    width: 50%;
+    margin: 50px;
+}
+
+.pi2 {
+    width: 50%;
+    margin: 50px;
+}
+
+.flex-pi {
+    display: flex;
+    margin: 50px;
+}
+
+.flex-pi pi1 {
+    width: 50%;
+}
+
+
+
+.flex-pi img {
+    width: 100%;
+    border-radius: 10px;
+}
+
 
 .donate-btn {
     text-decoration: none;
