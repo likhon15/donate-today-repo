@@ -270,6 +270,21 @@ body {
     border-radius: 10px;
 }
 
+.footer-class h3 {
+    font-family: 'Play', sans-serif;
+    font-family: 'Prompt', sans-serif;
+}
+
+.footer-class {
+    background-color: #00010e;
+    height: 300px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 40px;
+}
+
 
 .donate-btn {
     text-decoration: none;
